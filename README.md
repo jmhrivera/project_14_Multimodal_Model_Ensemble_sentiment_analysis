@@ -1,4 +1,4 @@
-# Project 16: Multimodal Model Ensemble for Sentiment Analysis
+# Project 14: Multimodal Model Ensemble for Sentiment Analysis
 
 ## Overview
 Film Junky Union, a cutting-edge community for classic movie enthusiasts, is developing a system to filter and categorize movie reviews. Our objective is to train a model to automatically detect negative reviews. We'll use a dataset of movie reviews from IMDB with labels to build a model that classifies reviews as either positive or negative. The goal is to achieve an F1 score of at least 0.85.
